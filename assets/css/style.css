@@ -1,0 +1,43 @@
+@font-face {
+  font-family: Casta;
+  src: url(fonts/Casta-Thin.otf);
+}
+
+@font-face {
+  font-family: Poppins;
+  src: url(fonts/Poppins-Medium.ttf);
+}
+
+#sscollection {
+  padding-top: 6rem;
+}
+
+h1 {
+  letter-spacing: 2px;
+}
+h2 {
+  letter-spacing: 3px;
+}
+p {
+  letter-spacing: 1px;
+}
+
+.carousel {
+  margin: auto;
+  max-height: 719px;
+  width: auto;
+}
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+.carousel-item {
+  height: 719px;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: auto;
+}
