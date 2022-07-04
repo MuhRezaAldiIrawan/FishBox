@@ -26,3 +26,5 @@ Configuration
 1. Set debug status to true/fa;se in oindex.js and oform.js, also in MY_Controller.php
 2. Set other configuration like database.php (like usual CI)
 3. Code the controller, model, and view accordingly
+
+
